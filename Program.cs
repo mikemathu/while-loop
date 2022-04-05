@@ -50,13 +50,24 @@
                     //break;
             //}
 
-            while (true)
-            {
-                Console.WriteLine("What is thy bidding, my maste?");
-                string input = Console.ReadLine();
+            //FOREVER LOOP WORTH BREAKING
+            //while (true)
+            //{
+                //Console.WriteLine("What is thy bidding, my maste?");
+                //string input = Console.ReadLine();
 
-                if (input == "quit" || input == "exit")
-                    break;
+                //if (input == "quit" || input == "exit")
+                    //break;
+            //}
+
+            //CONTINUING TO THE NEXT ITERATION OF THE LOOP
+            for (int x = 1; x <= 10; x++)
+            {
+                if (x == 3)
+                    continue;
+                    //break;
+
+                Console.WriteLine(x);
             }
         }
     }
