@@ -14,14 +14,24 @@
             //}
 
             //LOOP FOR ENTERING NUMBER BTWN 0 AND 10
-            int playerNumber = -1;
+            //int playerNumber = -1;
 
-            while (playerNumber < 0 || playerNumber > 10)
+            //while (playerNumber < 0 || playerNumber > 10)
+            //{
+            //Console.WriteLine("Enter a number between 0 and 10");
+            //string playerResponse = Console.ReadLine();
+            //playerNumber = Convert.ToInt32(playerResponse);
+            //}
+
+            //DO WHILE LOOP
+            int playerNumber;
+            do
             {
-                Console.WriteLine("Enter a number between 0 and 10");
+                Console.WriteLine("Enter a number between 0 and 10 ");
                 string playerResponse = Console.ReadLine();
                 playerNumber = Convert.ToInt32(playerResponse);
             }
+            while (playerNumber < 0 || playerNumber > 10);
         }
     }
 }
