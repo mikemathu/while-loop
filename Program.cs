@@ -34,9 +34,29 @@
             //while (playerNumber < 0 || playerNumber > 10);
 
             //THE FOR LOOP
-            for (int x = 2; x <= 10; x++)
+            //for (int x = 2; x <= 10; x++)
+            //{
+            //Console.WriteLine(x);
+            //}
+
+            //BREAKING OUT OF LOOPS
+            //int numberThatCausesProblems = 54;
+
+            //for (int x = 1; x <=100; x++)
+            //{
+                //Console.WriteLine(x);
+
+                //if (x == numberThatCausesProblems)
+                    //break;
+            //}
+
+            while (true)
             {
-                Console.WriteLine(x);
+                Console.WriteLine("What is thy bidding, my maste?");
+                string input = Console.ReadLine();
+
+                if (input == "quit" || input == "exit")
+                    break;
             }
         }
     }
