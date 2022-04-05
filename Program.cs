@@ -44,30 +44,48 @@
 
             //for (int x = 1; x <=100; x++)
             //{
-                //Console.WriteLine(x);
+            //Console.WriteLine(x);
 
-                //if (x == numberThatCausesProblems)
-                    //break;
+            //if (x == numberThatCausesProblems)
+            //break;
             //}
 
             //FOREVER LOOP WORTH BREAKING
             //while (true)
             //{
-                //Console.WriteLine("What is thy bidding, my maste?");
-                //string input = Console.ReadLine();
+            //Console.WriteLine("What is thy bidding, my maste?");
+            //string input = Console.ReadLine();
 
-                //if (input == "quit" || input == "exit")
-                    //break;
+            //if (input == "quit" || input == "exit")
+            //break;
             //}
 
             //CONTINUING TO THE NEXT ITERATION OF THE LOOP
-            for (int x = 1; x <= 10; x++)
-            {
-                if (x == 3)
-                    continue;
-                    //break;
+            //for (int x = 1; x <= 10; x++)
+            //{
+            //if (x == 3)
+            //continue;
+            //break;
 
-                Console.WriteLine(x);
+            //Console.WriteLine(x);
+            //}
+
+            //NESTING LOOPS
+            //for (int row = 0; row < 5; row++)
+            //{
+            //for (int column = 0; column < 10; column++)
+            //Console.WriteLine("*");
+
+            //Console.WriteLine();               
+            //}
+
+            for (int row = 0; row < 10; row++)
+            {
+                for (int column = 0; column < row + 1; column++)
+                    Console.WriteLine("*");
+
+                Console.WriteLine();
+               
             }
         }
     }
