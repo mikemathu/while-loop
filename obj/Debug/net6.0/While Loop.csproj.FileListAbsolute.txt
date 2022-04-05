@@ -1,0 +1,15 @@
+C:\C#\repos\CSharp step by step\Looping\While Loop\bin\Debug\net6.0\While Loop.exe
+C:\C#\repos\CSharp step by step\Looping\While Loop\bin\Debug\net6.0\While Loop.deps.json
+C:\C#\repos\CSharp step by step\Looping\While Loop\bin\Debug\net6.0\While Loop.runtimeconfig.json
+C:\C#\repos\CSharp step by step\Looping\While Loop\bin\Debug\net6.0\While Loop.dll
+C:\C#\repos\CSharp step by step\Looping\While Loop\bin\Debug\net6.0\While Loop.pdb
+C:\C#\repos\CSharp step by step\Looping\While Loop\obj\Debug\net6.0\While Loop.csproj.AssemblyReference.cache
+C:\C#\repos\CSharp step by step\Looping\While Loop\obj\Debug\net6.0\While Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\repos\CSharp step by step\Looping\While Loop\obj\Debug\net6.0\While Loop.AssemblyInfoInputs.cache
+C:\C#\repos\CSharp step by step\Looping\While Loop\obj\Debug\net6.0\While Loop.AssemblyInfo.cs
+C:\C#\repos\CSharp step by step\Looping\While Loop\obj\Debug\net6.0\While Loop.csproj.CoreCompileInputs.cache
+C:\C#\repos\CSharp step by step\Looping\While Loop\obj\Debug\net6.0\While Loop.dll
+C:\C#\repos\CSharp step by step\Looping\While Loop\obj\Debug\net6.0\refint\While Loop.dll
+C:\C#\repos\CSharp step by step\Looping\While Loop\obj\Debug\net6.0\While Loop.pdb
+C:\C#\repos\CSharp step by step\Looping\While Loop\obj\Debug\net6.0\While Loop.genruntimeconfig.cache
+C:\C#\repos\CSharp step by step\Looping\While Loop\obj\Debug\net6.0\ref\While Loop.dll
